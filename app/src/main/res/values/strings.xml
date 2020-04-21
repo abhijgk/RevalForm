@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">RevalForm</string>
+    <string name="title">Reval Form</string>
+    <string name="exam">Exam-type:</string>
+    <string name="action_settings">Settings</string>
+    <string name="radio_SEE">SEE</string>
+    <string name="radio_MAKE">MAKE-UP</string>
+    <string name="radio_SUPP">SUPPLEMENTARY</string>
+    <string name="usn">USN:</string>
+    <string name="name">Name:</string>
+    <string name="num">No. of Courses applied:</string>
+    <string name="tfee">Total Fees:</string>
+
+    <string name="slno">Sl.no.  </string>
+    <string name="sem">Sem  </string>
+    <string name="cc">Course Code  </string>
+    <string name="ct">Course Title  </string>
+    <string name="grade">Grade  </string>
+    <string name="fee">Fee Paid</string>
+
+    <string name="date">Date:</string>
+    <string name="submit">Submit</string>
+    <string name="title_activity_home2">Home2Activity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="home_second">Home Second</string>
+
+    <string name="title_activity_verify">Verify</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string-array name="semarray">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+    </string-array>
+    <string-array name="deparray">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+    </string-array>
+
+</resources>
